@@ -9,4 +9,5 @@ Learn Angular 2 :)
 
 ```js
 npm install
+npm start
 ```
